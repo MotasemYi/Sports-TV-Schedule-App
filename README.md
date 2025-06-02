@@ -1,3 +1,5 @@
+NOT: YOU CAN FIND ALL THE PROJECT IN THE ZIP FILE
+
 🏟️ Sports TV & Schedule App – Java + Swing + SQL
 This project is a sports-focused desktop application developed in Java, with a graphical user interface built using the Swing library. It was created as part of a university project to manage and display sports channels, team rankings, and match schedules.
 
